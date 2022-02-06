@@ -8,6 +8,7 @@ file_blobs:
   directories/root.php: 392e91d94c36ba716f86b6034aa5173d5dc25ab2
   directories/post-type.php: 362ebfe0d94ef00b364d7ad4992ae461bf904133
 ---
+# 01 -- Adding a Base
 
 In this document, we will learn how to add a new Base to the system.
 

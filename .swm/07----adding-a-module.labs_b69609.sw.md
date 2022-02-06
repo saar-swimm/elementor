@@ -8,6 +8,7 @@ file_blobs:
   core/page-assets/loader.php: c7c59ff1be5699b905afa7ae140c46cbb3a05147
   core/admin/admin.php: 06aec7d85749a71c4c7aedb6d5ee37716eedfaf0
 ---
+# 07 -- Adding a Module
 
 This document describes what a Module is and how to create a new one.
 

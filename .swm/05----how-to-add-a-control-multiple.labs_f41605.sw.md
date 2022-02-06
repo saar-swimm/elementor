@@ -6,6 +6,7 @@ app_version: 0.6.9-2
 file_blobs:
   includes/controls/box-shadow.php: e55cf9af34db5cc3e73dc295cd9f35b437da6fa7
 ---
+# 05 -- How to Add a Control Multiple
 
 In this document, we will learn how to add a new Control Multiple to the system.
 

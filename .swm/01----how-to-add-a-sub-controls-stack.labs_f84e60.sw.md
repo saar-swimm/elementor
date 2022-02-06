@@ -7,6 +7,7 @@ file_blobs:
   core/kits/documents/tabs/global-colors.php: caf73e1991d2f05509a7132538cf9770fd349dff
   core/kits/documents/kit.php: e3fc54ff6375aac910b0a55a20a34d78ee182523
 ---
+# 01 -- How to Add a Sub Controls Stack
 
 Understanding Sub Controls Stacks, how they work, and how to add new ones, is important - and this document will describe just that.
 

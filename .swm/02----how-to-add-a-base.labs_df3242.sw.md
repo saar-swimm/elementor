@@ -9,6 +9,7 @@ file_blobs:
   modules/compatibility-tag/base-module.php: ccd75a551ae38d0702517ccb5deb8b8e83c82105
   includes/autoloader.php: 96195293cec05f408e50c653353fa5e0104b436a
 ---
+# 02 -- How to Add a Base
 
 This document describes what a Base is and how to create a new one.
 

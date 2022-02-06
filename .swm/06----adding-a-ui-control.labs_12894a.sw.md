@@ -6,6 +6,7 @@ app_version: 0.6.9-2
 file_blobs:
   includes/controls/button.php: 98ca159e28ba959c69b3b075692a37302004dab1
 ---
+# 06 -- Adding a UI Control
 
 This document describes what an UI Control is and how to create a new one.
 

@@ -11,6 +11,7 @@ file_blobs:
   includes/widgets/image.php: 249949350c08633ea8e99539e31d3f9146ce7041
   includes/widgets/button.php: 012ee36d0c5ab57f52ccc2c2303ba0580373dc72
 ---
+# 08 -- Creating a Group Control
 
 This document covers how to create a new Group Control.
 

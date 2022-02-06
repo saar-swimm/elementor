@@ -8,6 +8,7 @@ file_blobs:
   readme.txt: 6bb5c9f784b944692b8f8fda6bc7ef3ae480c797
   core/app/modules/import-export/directories/root.php: 392e91d94c36ba716f86b6034aa5173d5dc25ab2
 ---
+# 03 -- Creating a Base
 
 In this document, we will learn how to add a new Base to the system.
 

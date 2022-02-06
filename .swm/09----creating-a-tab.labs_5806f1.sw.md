@@ -7,6 +7,7 @@ file_blobs:
   core/kits/documents/tabs/global-colors.php: caf73e1991d2f05509a7132538cf9770fd349dff
   core/kits/documents/kit.php: e3fc54ff6375aac910b0a55a20a34d78ee182523
 ---
+# 09 -- Creating a Tab
 
 In this document, we will learn how to add a new Tab to the system.
 

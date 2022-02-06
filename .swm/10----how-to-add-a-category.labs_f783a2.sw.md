@@ -13,6 +13,7 @@ file_blobs:
   readme.txt: 6bb5c9f784b944692b8f8fda6bc7ef3ae480c797
   assets/dev/js/editor/controls/color.js: 6fdc6d53fbb4b51cba45e5d1df4ade484e5884e1
 ---
+# 10 -- How to Add a Category
 
 This document describes what a Category is and how to create a new one.
 
