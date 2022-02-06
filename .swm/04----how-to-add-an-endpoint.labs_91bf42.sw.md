@@ -7,6 +7,7 @@ file_blobs:
   core/app/modules/kit-library/data/kits/controller.php: 02bd2baae990f564d1f48bb52a7173f7d8f99a54
   core/app/modules/kit-library/data/kits/endpoints/download-link.php: 3cdc0e456d3b5a65661947f5b26d6d8faff8efa8
 ---
+# 04 -- How to Add an Endpoint
 
 In this document, we will learn how to add a new Endpoint to the system.
 
